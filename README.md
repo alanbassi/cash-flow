@@ -13,7 +13,7 @@ Como base para o frontend utilizei um projeto [React](https://github.com/luiizsi
 
 ### Backend
 
-Na parte do backend criei uma estrutura do zero feita em .Net 6 (Última versão LTS) afim de atender o desafio. Utilizei algumas tecnologias/boas práticas como AutoMapper, MediatR, Singleton, Swagger, Repository Pattern, MongoDB (NoSQL), CQS e SOLID.
+Na parte do backend criei uma estrutura do zero feita em .Net 6 (Última versão LTS) afim de atender o desafio. Utilizei algumas tecnologias/boas práticas como AutoMapper, MediatR, Singleton, Swagger, Repository Pattern, MongoDB (NoSQL), CQS, SOLID, Clean Code e Clean Architecture.
 
 ## Screenshots
 ![](https://raw.githubusercontent.com/alanbassi/cash-flow/main/frontend/public/screen1.png)
